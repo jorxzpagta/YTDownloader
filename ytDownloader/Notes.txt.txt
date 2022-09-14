@@ -1,0 +1,11 @@
+
+
+A Youtube video downloader with GUI using Python
+
+# Future project
+make a web app version of the downloader
+
+Package Used:
+
+pytube
+PySimpleGUI
